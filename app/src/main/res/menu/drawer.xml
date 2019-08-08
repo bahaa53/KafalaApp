@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/top"
+           android:checkableBehavior="single">
+        <item
+                android:id="@+id/home"
+                android:checked="true"
+                android:icon="@drawable/ic_home_"
+                android:title="@string/home"
+        />
+        <item
+                android:id="@+id/kafeel"
+                android:icon="@drawable/ic_search_plus"
+                android:title="@string/search_for_kafel"
+        />
+
+        <item
+                android:id="@+id/makfool"
+                android:icon="@drawable/ic_search__world"
+                android:title="@string/search_for_makfol"
+        />
+        <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_about"
+                android:title="@string/about"
+        />
+
+        <item
+                android:id="@+id/bankAccounts"
+                android:icon="@drawable/ic_bank"
+                android:title="@string/bank_accounts"
+        />
+
+        <item
+                android:id="@+id/callUs"
+                android:icon="@drawable/ic_telephone_"
+                android:title="@string/call_us"
+        />
+    </group>
+</menu>

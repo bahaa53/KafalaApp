@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#29704E</color>
+    <color name="colorPrimaryDark">#29704E</color>
+    <color name="colorAccent">#29704E</color>
+    <color name="greenColor">#29704E</color>
+    <color name="gray_color">#EEEEEE</color>
+    <color name="secondary_text_color">#565656</color>
+    <color name="secondary_red_color">#AA7526</color>
+    <color name="register_tv_color">#333333</color>
+    <color name="register_edittext_color">#949494</color>
+    <color name="secondary_gray_color">#353535</color>
+    <color name="secondary_black_color">#474747</color>
+    <color name="progress_dialog_color">#CE9C0D</color>
+
+</resources>
